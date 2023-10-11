@@ -7,6 +7,7 @@ The model is able to detect these classes
 * CSAT Varsuk
 * CSAT Marid
 * CSAT Zamak (Transport)
+  ______________________________________________________________________
 ![test_01](https://github.com/RsGoksel/Military-Vehicles-Detection/assets/80707238/99a730de-9310-4ce8-87d5-8a804d564a07)
 
 The dataset used is available on [Kaggle](https://www.kaggle.com/datasets/gkselmech/arma-military-object-detection/data).
